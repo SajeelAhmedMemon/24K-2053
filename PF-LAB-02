@@ -1,0 +1,80 @@
+# Objective 2: PSEUDOCODE
+### Task 02: Take three variables as input and add them without using the + operator (Use your head for this)
+1.	START
+2.	
+3.	// Input/output
+4.	INPUT number1
+5.	INPUT number2
+6.	INPUT number3
+7.	
+8.	// Variables and Initialization
+9.	SET result = 0
+10.	
+11.	// Add number1 to result using FOR loop
+12.	for i = 1 to number1
+13.	      Increment result by 1
+14.	End for
+15.	
+16.	// Add number2 to result using FOR loop
+17.	for i = 1 to number1
+18.	      Increment result by 1
+19.	End for 
+20.	
+21.	// Add number3 to result using FOR loop
+22.	for i = 1 to number1
+23.	      Increment result by 1
+24.	End for 
+25.	
+26.	// Input/output 
+27.	OUTPUT result
+28.	
+29.	END
+
+
+Task 03: Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+1.	START
+2.	
+3.	// Input/output
+4.	INPUT number1
+5.	INPUT number2
+6.	INPUT operator 
+7.	
+8.	// Variables and Initialization 
+9.	SET result to 0
+10.	
+11.	// Conditional Statements 
+12.	IF operator is ‘+’ then
+13.	          SET result to number1 + number2
+14.	ELSE IF operator is ‘-’ then 
+15.	          SET result to number1 - number2
+16.	ELSE
+17.	         display “Invalid Operator”
+18.	End if
+19.	
+20.	END  
+
+
+Objective 3: ALGORITHM
+
+Task 01: Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+1.	Ask the user to enter the Nth
+2.	Ask the user to enter the n
+3.	If n % Nth  == 0, then Nth is a divisor of n
+4.	Else, Nth is not a divisor of n
+5.	If N % 2 == 0, then N is even.
+6.	Else N is odd.
+7.	Display the result for the user
+
+Task 02: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%) 
+1.	Ask the user to enter A.
+2.	Ask the user to enter an operator (+, -, *, /, or %).
+3.	Ask the user to enter B.
+4.	If the operator is +, then calculate Result = A + B.
+5.	If the operator is -, then calculate Result = A - B.
+6.	If the operator is *, then calculate Result = A * B.
+7.	If the operator is /, then calculate Result = A / B. 
+8.	If the operator is %, then calculate Result = A % B.
+9.	Display the result.
+
+
+
