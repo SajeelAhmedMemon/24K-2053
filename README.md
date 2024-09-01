@@ -11,14 +11,14 @@ Hi there! I'm Sajeel Ahmed, Here’s a little bit about me:
 > - Flowchart
 > - Psuedocode
 > - Algorithm
-> - github
+> - GitHub
 
 
 ## 📫 How to Reach Me
 
 - **Email**: [sajeela576@gmail.com]
 
-Feel free to connect or reach out if you have any questions or just want to chat!
+Feel free to connect or reach out if you have any questions!
 
 ---
 
